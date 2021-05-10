@@ -1,0 +1,45 @@
+/* bu layihenin ehtiyac duydugu diger css stilleri */
+
+#service {
+    padding: 40px 0px;
+    background: lightcyan;
+}
+
+.service-heading {
+    text-align: center;
+}
+
+.service-heading h5 {
+    color: #2c7ae7;
+    margin: 0px;
+}
+
+.service-heading h1 {
+    color: #2c7ae7;
+    margin: 10px;
+}
+
+.service-heading h1 {
+    font-size: 35px;
+}
+
+.service-item {
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.service-action {
+    text-align: center;
+}
+
+.service-action button {
+    border: none;
+    outline: none;
+    padding: 10px 30px;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+}
